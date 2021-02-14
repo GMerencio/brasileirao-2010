@@ -1,0 +1,396 @@
+08/05/2010 - 18:30 - Botafogo/RJ 3x3 Santos/SP
+08/05/2010 - 18:30 - Atlético/GO 0x0 Grêmio/RS
+08/05/2010 - 18:30 - Palmeiras/SP 1x0 Vitória/BA
+09/05/2010 - 16:00 - Flamengo/RJ 1x1 São_Paulo/SP
+09/05/2010 - 16:00 - Atlético/MG 2x1 Vasco/RJ
+09/05/2010 - 16:00 - Internacional/RS 1x2 Cruzeiro/MG
+09/05/2010 - 16:00 - Corinthians/SP 2x1 Atlético/PR
+09/05/2010 - 18:30 - Ceará/CE 1x0 Fluminense/RJ
+09/05/2010 - 18:30 - Guarani/SP 1x0 Goiás/GO
+09/05/2010 - 18:30 - Avai/SC 6x1 Grêmio_Prudente/SP
+
+15/05/2010 - 18:30 - Vitória/BA 1x1 Flamengo/RJ
+15/05/2010 - 18:30 - Fluminense/RJ 1x0 Atlético/GO
+15/05/2010 - 18:30 - Grêmio_Prudente/SP 4x0 Atlético/MG
+16/05/2010 - 16:00 - Grêmio/RS 1x2 Corinthians/SP
+16/05/2010 - 16:00 - Goiás/GO 2x3 Internacional/RS
+16/05/2010 - 16:00 - São_Paulo/SP 1x2 Botafogo/RJ
+16/05/2010 - 16:00 - Santos/SP 1x1 Ceará/CE
+16/05/2010 - 18:30 - Vasco/RJ 0x0 Palmeiras/SP
+16/05/2010 - 18:30 - Cruzeiro/MG 2x2 Avai/SC
+16/05/2010 - 18:30 - Atlético/PR 2x2 Guarani/SP
+
+22/05/2010 - 18:30 - Atlético/GO 1x2 Santos/SP
+22/05/2010 - 18:30 - Palmeiras/SP 4x2 Grêmio/RS
+22/05/2010 - 18:30 - Botafogo/RJ 3x0 Goiás/GO
+23/05/2010 - 16:00 - Corinthians/SP 1x0 Fluminense/RJ
+23/05/2010 - 16:00 - Atlético/MG 3x1 Atlético/PR
+23/05/2010 - 16:00 - Internacional/RS 0x2 São_Paulo/SP
+23/05/2010 - 16:00 - Ceará/CE 1x0 Vitória/BA
+23/05/2010 - 18:30 - Avai/SC 2x0 Vasco/RJ
+23/05/2010 - 18:30 - Flamengo/RJ 3x1 Grêmio_Prudente/SP
+23/05/2010 - 18:30 - Guarani/SP 2x2 Cruzeiro/MG
+
+26/05/2010 - 19:30 - Vitória/BA 4x3 Atlético/MG
+26/05/2010 - 19:30 - Grêmio/RS 3x0 Avai/SC
+26/05/2010 - 19:30 - Fluminense/RJ 2x1 Flamengo/RJ
+26/05/2010 - 21:00 - São_Paulo/SP 1x0 Palmeiras/SP
+26/05/2010 - 21:50 - Grêmio_Prudente/SP 2x2 Corinthians/SP
+26/05/2010 - 21:50 - Cruzeiro/MG 1x0 Botafogo/RJ
+26/05/2010 - 21:50 - Santos/SP 3x1 Guarani/SP
+27/05/2010 - 21:00 - Vasco/RJ 3x2 Internacional/RS
+27/05/2010 - 21:00 - Atlético/PR 2x1 Atlético/GO
+27/05/2010 - 21:00 - Goiás/GO 0x0 Ceará/CE
+
+29/05/2010 - 18:30 - Flamengo/RJ 1x1 Grêmio/RS
+29/05/2010 - 18:30 - Palmeiras/SP 0x0 Grêmio_Prudente/SP
+29/05/2010 - 18:30 - Avai/SC 0x0 Vitória/BA
+30/05/2010 - 16:00 - Corinthians/SP 4x2 Santos/SP
+30/05/2010 - 16:00 - Guarani/SP 0x0 São_Paulo/SP
+30/05/2010 - 16:00 - Atlético/MG 1x3 Fluminense/RJ
+30/05/2010 - 16:00 - Internacional/RS 4x1 Atlético/PR
+30/05/2010 - 18:30 - Ceará/CE 1x0 Cruzeiro/MG
+30/05/2010 - 18:30 - Atlético/GO 1x3 Goiás/GO
+30/05/2010 - 18:30 - Botafogo/RJ 1x1 Vasco/RJ
+
+02/06/2010 - 19:30 - Atlético/PR 3x2 Botafogo/RJ
+02/06/2010 - 19:30 - Fluminense/RJ 2x1 Vitória/BA
+02/06/2010 - 19:30 - Grêmio_Prudente/SP 1x0 Atlético/GO
+02/06/2010 - 21:00 - Ceará/CE 2x0 Avai/SC
+02/06/2010 - 21:50 - Palmeiras/SP 0x1 Flamengo/RJ
+02/06/2010 - 21:50 - Goiás/GO 2x1 São_Paulo/SP
+02/06/2010 - 21:50 - Cruzeiro/MG 0x0 Santos/SP
+03/06/2010 - 21:00 - Grêmio/RS 2x1 Atlético/MG
+03/06/2010 - 21:00 - Vasco/RJ 0x1 Guarani/SP
+03/06/2010 - 21:00 - Corinthians/SP 2x0 Internacional/RS
+
+05/06/2010 - 18:30 - Avai/SC 0x3 Fluminense/RJ
+05/06/2010 - 18:30 - Flamengo/RJ 1x2 Goiás/GO
+05/06/2010 - 18:30 - Vitória/BA 1x0 Atlético/PR
+06/06/2010 - 16:00 - São_Paulo/SP 3x1 Grêmio/RS
+06/06/2010 - 16:00 - Santos/SP 4x0 Vasco/RJ
+06/06/2010 - 16:00 - Botafogo/RJ 2x2 Corinthians/SP
+06/06/2010 - 16:00 - Atlético/MG 0x1 Ceará/CE
+06/06/2010 - 18:30 - Internacional/RS 1x1 Palmeiras/SP
+06/06/2010 - 18:30 - Guarani/SP 1x0 Grêmio_Prudente/SP
+06/06/2010 - 18:30 - Atlético/GO 2x1 Cruzeiro/MG
+
+14/07/2010 - 19:30 - Grêmio/RS 1x1 Vitória/BA
+14/07/2010 - 19:30 - Atlético/PR 0x2 Cruzeiro/MG
+14/07/2010 - 19:30 - São_Paulo/SP 1x2 Avai/SC
+14/07/2010 - 21:00 - Flamengo/RJ 1x0 Botafogo/RJ
+14/07/2010 - 21:50 - Guarani/SP 0x3 Internacional/RS
+14/07/2010 - 21:50 - Goiás/GO 0x0 Vasco/RJ
+14/07/2010 - 21:50 - Ceará/CE 0x0 Corinthians/SP
+15/07/2010 - 21:00 - Palmeiras/SP 2x1 Santos/SP
+15/07/2010 - 21:00 - Atlético/MG 3x2 Atlético/GO
+15/07/2010 - 21:00 - Fluminense/RJ 1x1 Grêmio_Prudente/SP
+
+17/07/2010 - 18:30 - Vitória/BA 3x2 São_Paulo/SP
+17/07/2010 - 18:30 - Vasco/RJ 3x1 Atlético/PR
+18/07/2010 - 18:30 - Cruzeiro/MG 1x0 Goiás/GO
+18/07/2010 - 16:00 - Corinthians/SP 1x0 Atlético/MG
+18/07/2010 - 16:00 - Atlético/GO 0x1 Flamengo/RJ
+18/07/2010 - 16:00 - Avai/SC 4x2 Palmeiras/SP
+18/07/2010 - 16:00 - Internacional/RS 2x1 Ceará/CE
+18/07/2010 - 18:30 - Santos/SP 0x1 Fluminense/RJ
+18/07/2010 - 18:30 - Botafogo/RJ 1x1 Guarani/SP
+18/07/2010 - 18:30 - Grêmio_Prudente/SP 1x0 Grêmio/RS
+
+21/07/2010 - 19:30 - Atlético/MG 1x2 Internacional/RS
+21/07/2010 - 19:30 - Vitória/BA 2x2 Goiás/GO
+21/07/2010 - 19:30 - São_Paulo/SP 1x1 Grêmio_Prudente/SP
+21/07/2010 - 21:00 - Flamengo/RJ 1x1 Avai/SC
+21/07/2010 - 21:50 - Atlético/PR 2x0 Santos/SP
+21/07/2010 - 21:50 - Grêmio/RS 1x1 Vasco/RJ
+21/07/2010 - 21:50 - Atlético/GO 3x1 Corinthians/SP
+22/07/2010 - 21:00 - Fluminense/RJ 1x0 Cruzeiro/MG
+22/07/2010 - 21:00 - Guarani/SP 1x1 Ceará/CE
+22/07/2010 - 21:00 - Palmeiras/SP 2x2 Botafogo/RJ
+
+24/07/2010 - 18:30 - Avai/SC 0x0 Atlético/MG
+24/07/2010 - 18:30 - Vasco/RJ 2x0 Atlético/GO
+24/07/2010 - 18:30 - Grêmio_Prudente/SP 0x0 Vitória/BA
+25/07/2010 - 16:00 - Santos/SP 1x0 São_Paulo/SP
+25/07/2010 - 16:00 - Cruzeiro/MG 2x2 Grêmio/RS
+25/07/2010 - 16:00 - Internacional/RS 1x0 Flamengo/RJ
+25/07/2010 - 16:00 - Goiás/GO 0x2 Atlético/PR
+25/07/2010 - 18:30 - Ceará/CE 0x0 Palmeiras/SP
+25/07/2010 - 18:30 - Corinthians/SP 3x1 Guarani/SP
+25/07/2010 - 18:30 - Botafogo/RJ 1x1 Fluminense/RJ
+
+31/07/2010 - 18:30 - Fluminense/RJ 3x1 Atlético/PR
+31/07/2010 - 18:30 - Atlético/GO 1x1 Guarani/SP
+31/07/2010 - 18:30 - São_Paulo/SP 2x1 Ceará/CE
+01/08/2010 - 16:00 - Palmeiras/SP 1x1 Corinthians/SP
+01/08/2010 - 16:00 - Vitória/BA 1x3 Botafogo/RJ
+01/08/2010 - 16:00 - Avai/SC 4x1 Goiás/GO
+01/08/2010 - 16:00 - Internacional/RS 0x0 Grêmio/RS
+01/08/2010 - 18:30 - Atlético/MG 0x1 Cruzeiro/MG
+01/08/2010 - 18:30 - Grêmio_Prudente/SP 1x2 Santos/SP
+01/08/2010 - 18:30 - Flamengo/RJ 0x0 Vasco/RJ
+
+08/08/2010 - 18:30 - Atlético/PR 1x1 São_Paulo/SP
+07/08/2010 - 18:30 - Botafogo/RJ 3x0 Atlético/MG
+07/08/2010 - 18:30 - Guarani/SP 4x1 Avai/SC
+08/08/2010 - 16:00 - Corinthians/SP 1x0 Flamengo/RJ
+08/08/2010 - 16:00 - Goiás/GO 1x1 Palmeiras/SP
+08/08/2010 - 16:00 - Ceará/CE 0x0 Atlético/GO
+08/08/2010 - 16:00 - Grêmio/RS 1x2 Fluminense/RJ
+08/08/2010 - 18:30 - Vasco/RJ 1x0 Vitória/BA
+08/08/2010 - 18:30 - Cruzeiro/MG 0x0 Grêmio_Prudente/SP
+
+14/08/2010 - 18:30 - Atlético/GO 0x2 Botafogo/RJ
+14/08/2010 - 18:30 - Palmeiras/SP 2x0 Atlético/PR
+14/08/2010 - 18:30 - Flamengo/RJ 1x0 Ceará/CE
+15/08/2010 - 16:00 - São_Paulo/SP 2x2 Cruzeiro/MG
+15/08/2010 - 16:00 - Grêmio_Prudente/SP 1x2 Vasco/RJ
+15/08/2010 - 16:00 - Avai/SC 3x2 Corinthians/SP
+15/08/2010 - 16:00 - Fluminense/RJ 3x0 Internacional/RS
+15/08/2010 - 18:30 - Vitória/BA 4x2 Santos/SP
+14/08/2010 - 18:30 - Atlético/MG 3x1 Guarani/SP
+15/08/2010 - 18:30 - Grêmio/RS 2x0 Goiás/GO
+
+22/08/2010 - 18:30 - Cruzeiro/MG 0x1 Vitória/BA
+21/08/2010 - 18:30 - Goiás/GO 1x2 Grêmio_Prudente/SP
+21/08/2010 - 18:30 - Botafogo/RJ 1x0 Avai/SC
+22/08/2010 - 16:00 - Santos/SP 2x0 Atlético/MG
+22/08/2010 - 16:00 - Guarani/SP 0x0 Palmeiras/SP
+22/08/2010 - 16:00 - Atlético/PR 1x0 Flamengo/RJ
+22/08/2010 - 16:00 - Internacional/RS 1x1 Atlético/GO
+21/08/2010 - 18:30 - Ceará/CE 2x1 Grêmio/RS
+22/08/2010 - 18:30 - Corinthians/SP 3x0 São_Paulo/SP
+22/08/2010 - 18:30 - Vasco/RJ 2x2 Fluminense/RJ
+
+25/08/2010 - 19:30 - Goiás/GO 0x3 Fluminense/RJ
+25/08/2010 - 19:30 - Avai/SC 0x1 Internacional/RS
+25/08/2010 - 19:30 - Botafogo/RJ 1x0 Ceará/CE
+25/08/2010 - 21:00 - Grêmio_Prudente/SP 0x1 Atlético/PR
+25/08/2010 - 21:50 - São_Paulo/SP 0x0 Vasco/RJ
+25/08/2010 - 21:50 - Cruzeiro/MG 1x0 Corinthians/SP
+25/08/2010 - 21:50 - Grêmio/RS 1x2 Santos/SP
+26/08/2010 - 21:00 - Flamengo/RJ 0x0 Atlético/MG
+26/08/2010 - 21:00 - Vitória/BA 1x1 Guarani/SP
+26/08/2010 - 21:00 - Palmeiras/SP 0x3 Atlético/GO
+
+28/08/2010 - 18:30 - Internacional/RS 1x0 Botafogo/RJ
+28/08/2010 - 18:30 - Vasco/RJ 1x1 Cruzeiro/MG
+28/08/2010 - 18:30 - Ceará/CE 2x2 Grêmio_Prudente/SP
+29/08/2010 - 16:00 - Corinthians/SP 2x1 Vitória/BA
+29/08/2010 - 16:00 - Guarani/SP 2x1 Flamengo/RJ
+29/08/2010 - 16:00 - Atlético/MG 1x2 Palmeiras/SP
+28/08/2010 - 18:30 - Santos/SP 2x0 Goiás/GO
+29/08/2010 - 18:30 - Fluminense/RJ 2x2 São_Paulo/SP
+29/08/2010 - 18:30 - Atlético/GO 2x2 Avai/SC
+29/08/2010 - 18:30 - Atlético/PR 1x1 Grêmio/RS
+
+01/09/2010 - 19:30 - Vitória/BA 0x0 Internacional/RS
+01/09/2010 - 19:30 - Grêmio/RS 1x0 Guarani/SP
+01/09/2010 - 19:30 - Grêmio_Prudente/SP 0x1 Botafogo/RJ
+01/09/2010 - 21:00 - Goiás/GO 1x3 Atlético/MG
+01/09/2010 - 22:00 - Cruzeiro/MG 1x0 Flamengo/RJ
+01/09/2010 - 22:00 - Atlético/PR 2x1 Ceará/CE
+01/09/2010 - 22:00 - Fluminense/RJ 1x1 Palmeiras/SP
+02/09/2010 - 21:00 - Santos/SP 2x1 Avai/SC
+02/09/2010 - 21:00 - São_Paulo/SP 2x1 Atlético/GO
+
+04/09/2010 - 18:30 - Botafogo/RJ 2x2 Grêmio/RS
+04/09/2010 - 18:30 - Ceará/CE 0x2 Vasco/RJ
+04/09/2010 - 18:30 - Corinthians/SP 5x1 Goiás/GO
+05/09/2010 - 16:00 - Avai/SC 0x1 Atlético/PR
+05/09/2010 - 16:00 - Palmeiras/SP 2x3 Cruzeiro/MG
+05/09/2010 - 16:00 - Guarani/SP 2x1 Fluminense/RJ
+05/09/2010 - 16:00 - Flamengo/RJ 0x0 Santos/SP
+05/09/2010 - 18:30 - Atlético/MG 2x3 São_Paulo/SP
+05/09/2010 - 18:30 - Atlético/GO 4x1 Vitória/BA
+05/09/2010 - 18:30 - Internacional/RS 2x0 Grêmio_Prudente/SP
+
+08/09/2010 - 19:30 - Fluminense/RJ 3x1 Ceará/CE
+08/09/2010 - 19:30 - Cruzeiro/MG 1x0 Internacional/RS
+08/09/2010 - 19:30 - Grêmio/RS 2x0 Atlético/GO
+08/09/2010 - 19:30 - Goiás/GO 3x1 Guarani/SP
+08/09/2010 - 22:00 - São_Paulo/SP 2x0 Flamengo/RJ
+08/09/2010 - 22:00 - Vitória/BA 1x1 Palmeiras/SP
+08/09/2010 - 22:00 - Atlético/PR 1x1 Corinthians/SP
+09/09/2010 - 21:00 - Santos/SP 0x1 Botafogo/RJ
+09/09/2010 - 21:00 - Vasco/RJ 1x1 Atlético/MG
+09/09/2010 - 21:00 - Grêmio_Prudente/SP 1x1 Avai/SC
+
+11/09/2010 - 18:30 - Corinthians/SP 0x1 Grêmio/RS
+11/09/2010 - 18:30 - Flamengo/RJ 2x2 Vitória/BA
+11/09/2010 - 18:30 - Atlético/GO 2x1 Fluminense/RJ
+12/09/2010 - 16:00 - Palmeiras/SP 0x0 Vasco/RJ
+12/09/2010 - 16:00 - Botafogo/RJ 2x0 São_Paulo/SP
+12/09/2010 - 16:00 - Atlético/MG 1x0 Grêmio_Prudente/SP
+12/09/2010 - 16:00 - Avai/SC 1x2 Cruzeiro/MG
+12/09/2010 - 18:30 -Guarani/SP 1x0 Atlético/PR
+12/09/2010 - 18:30 -Internacional/RS 0x0 Goiás/GO
+12/09/2010 - 18:30 -Ceará/CE 2x1 Santos/SP
+
+15/09/2010 - 19:30 - Santos/SP 4x2 Atlético/GO
+15/09/2010 - 19:30 - Cruzeiro/MG 4x2 Guarani/SP
+15/09/2010 - 19:30 - Grêmio/RS 1x2 Palmeiras/SP
+15/09/2010 - 19:30 - Goiás/GO 4x1 Botafogo/RJ
+15/09/2010 - 19:30 - Atlético/PR 2x1 Atlético/MG
+15/09/2010 - 22:00 - Fluminense/RJ 1x2 Corinthians/SP
+15/09/2010 - 22:00 - Grêmio_Prudente/SP 1x2 Flamengo/RJ
+15/09/2010 - 22:00 - Vitória/BA 0x0 Ceará/CE
+16/09/2010 - 21:00 - São_Paulo/SP 1x3 Internacional/RS
+16/09/2010 - 21:00 - Vasco/RJ 1x1 Avai/SC
+
+18/09/2010 - 18:30 - Corinthians/SP 3x0 Grêmio_Prudente/SP
+18/09/2010 - 18:30 - Botafogo/RJ 2x2 Cruzeiro/MG
+18/09/2010 - 18:30 - Atlético/GO 1x2 Atlético/PR
+19/09/2010 - 16:00 - Palmeiras/SP 0x2 São_Paulo/SP
+19/09/2010 - 16:00 - Guarani/SP 0x0 Santos/SP
+19/09/2010 - 16:00 - Atlético/MG 2x3 Vitória/BA
+19/09/2010 - 16:00 - Internacional/RS 1x0 Vasco/RJ
+19/09/2010 - 18:30 - Flamengo/RJ 3x3 Fluminense/RJ
+19/09/2010 - 18:30 - Ceará/CE 1x1 Goiás/GO
+19/09/2010 - 18:30 - Avai/SC 0x3 Grêmio/RS
+
+22/09/2010 - 19:30 - São_Paulo/SP 2x1 Guarani/SP
+22/09/2010 - 19:30 - Grêmio_Prudente/SP 0x1 Palmeiras/SP
+22/09/2010 - 19:30 - Cruzeiro/MG 2x0 Ceará/CE
+22/09/2010 - 19:30 - Goiás/GO 1x3 Atlético/GO
+22/09/2010 - 21:00 - Vasco/RJ 2x2 Botafogo/RJ
+22/09/2010 - 22:00 - Santos/SP 2x3 Corinthians/SP
+22/09/2010 - 22:00 - Grêmio/RS 2x2 Flamengo/RJ
+22/09/2010 - 22:00 - Atlético/PR 1x0 Internacional/RS
+23/09/2010 - 21:00 - Fluminense/RJ 5x1 Atlético/MG
+23/09/2010 - 21:00 - Vitória/BA 3x0 Avai/SC
+
+25/09/2010 - 18:30 - São_Paulo/SP 0x3 Goiás/GO
+25/09/2010 - 18:30 - Santos/SP 4x1 Cruzeiro/MG
+25/09/2010 - 18:30 - Flamengo/RJ 1x3 Palmeiras/SP
+25/09/2010 - 18:30 - Guarani/SP 1x0 Vasco/RJ
+25/09/2010 - 18:30 - Atlético/GO 3x0 Grêmio_Prudente/SP
+26/09/2010 - 16:00 - Botafogo/RJ 1x1 Atlético/PR
+26/09/2010 - 16:00 - Internacional/RS 3x2 Corinthians/SP
+26/09/2010 - 16:00 - Vitória/BA 1x2 Fluminense/RJ
+26/09/2010 - 18:30 - Atlético/MG 1x2 Grêmio/RS
+26/09/2010 - 18:30 - Avai/SC 5x0 Ceará/CE
+
+28/09/2010 - 21:00 - Vasco/RJ 3x1 Santos/SP
+28/09/2010 - 21:00 - Goiás/GO 1x1 Flamengo/RJ
+29/09/2010 - 19:30 - Palmeiras/SP 2x0 Internacional/RS
+29/09/2010 - 19:30 - Grêmio_Prudente/SP 4x2 Guarani/SP
+29/09/2010 - 19:30 - Cruzeiro/MG 3x0 Atlético/GO
+29/09/2010 - 19:30 - Atlético/PR 1x0 Vitória/BA
+29/09/2010 - 21:00 - Fluminense/RJ 1x0 Avai/SC
+29/09/2010 - 22:00 - Corinthians/SP 1x1 Botafogo/RJ
+29/09/2010 - 22:00 - Grêmio/RS 4x2 São_Paulo/SP
+29/09/2010 - 22:00 - Ceará/CE 0x0 Atlético/MG
+
+01/10/2010 - 21:00 - Vasco/RJ 3x2 Goiás/GO
+02/10/2010 - 16:00 - Corinthians/SP 2x2 Ceará/CE
+02/10/2010 - 16:00 - Santos/SP 1x1 Palmeiras/SP
+02/10/2010 - 16:00 - Grêmio_Prudente/SP 1x1 Fluminense/RJ
+02/10/2010 - 16:00 - Vitória/BA 0x3 Grêmio/RS
+02/10/2010 - 18:30 - Botafogo/RJ 1x1 Flamengo/RJ
+02/10/2010 - 18:30 - Cruzeiro/MG 0x0 Atlético/PR
+02/10/2010 - 18:30 - Internacional/RS 3x0 Guarani/SP
+02/10/2010 - 21:00 - Atlético/GO 2x3 Atlético/MG
+02/10/2010 - 21:00 - Avai/SC 0x0 São_Paulo/SP
+
+06/10/2010 - 19:30 - Fluminense/RJ 0x3 Santos/SP
+06/10/2010 - 19:30 - Guarani/SP 1x1 Botafogo/RJ
+06/10/2010 - 19:30 - Grêmio/RS 4x0 Grêmio_Prudente/SP
+06/10/2010 - 21:50 - São_Paulo/SP 2x0 Vitória/BA
+06/10/2010 - 21:50 - Atlético/MG 2x1 Corinthians/SP
+06/10/2010 - 21:50 - Ceará/CE 1x0 Internacional/RS
+06/10/2010 - 21:50 - Atlético/PR 0x0 Vasco/RJ
+07/10/2010 - 21:00 - Palmeiras/SP 4x1 Avai/SC
+07/10/2010 - 21:00 - Flamengo/RJ 2x0 Atlético/GO
+07/10/2010 - 21:00 - Goiás/GO 0x1 Cruzeiro/MG
+
+09/10/2010 - 18:30 - Santos/SP 2x0 Atlético/PR
+09/10/2010 - 18:30 - Vasco/RJ 3x3 Grêmio/RS
+09/10/2010 - 18:30 - Grêmio_Prudente/SP 2x3 São_Paulo/SP
+10/10/2010 - 18:30 - Internacional/RS 1x0 Atlético/MG
+10/10/2010 - 16:00 - Corinthians/SP 3x4 Atlético/GO
+10/10/2010 - 16:00 - Botafogo/RJ 0x0 Palmeiras/SP
+10/10/2010 - 16:00 - Cruzeiro/MG 1x0 Fluminense/RJ
+10/10/2010 - 16:00 - Goiás/GO 1x0 Vitória/BA
+10/10/2010 - 18:30 - Ceará/CE 2x0 Guarani/SP
+10/10/2010 - 16:00 - Avai/SC 2x2 Flamengo/RJ
+
+13/10/2010 - 22:00 - Santos/SP 1x0 Internacional/RS
+13/10/2010 - 22:00 - Vasco/RJ 2x0 Corinthians/SP
+
+16/10/2010 - 18:30 - Flamengo/RJ 3x0 Internacional/RS
+16/10/2010 - 18:30 - Atlético/MG 2x0 Avai/SC
+17/10/2010 - 16:00 - Guarani/SP 0x0 Corinthians/SP
+17/10/2010 - 16:00 - Grêmio/RS 2x1 Cruzeiro/MG
+17/10/2010 - 16:00 - Atlético/GO 2x0 Vasco/RJ
+17/10/2010 - 16:00 - Atlético/PR 2x1 Goiás/GO
+17/10/2010 - 18:30 - São_Paulo/SP 4x3 Santos/SP
+17/10/2010 - 18:30 - Palmeiras/SP 1x1 Ceará/CE
+17/10/2010 - 18:30 - Fluminense/RJ 0x0 Botafogo/RJ
+17/10/2010 - 18:30 - Vitória/BA 2x0 Grêmio_Prudente/SP
+
+23/10/2010 - 18:30 - Botafogo/RJ 1x0 Vitória/BA
+23/10/2010 - 18:30 - Guarani/SP 0x1 Atlético/GO
+24/10/2010 - 16:00 - Corinthians/SP 1x0 Palmeiras/SP
+24/10/2010 - 16:00 - Goiás/GO 1x0 Avai/SC
+24/10/2010 - 16:00 - Ceará/CE 2x0 São_Paulo/SP
+24/10/2010 - 16:00 - Atlético/PR 2x2 Fluminense/RJ
+24/10/2010 - 18:30 - Santos/SP 2x3 Grêmio_Prudente/SP
+24/10/2010 - 18:30 - Vasco/RJ 1x1 Flamengo/RJ
+24/10/2010 - 18:30 - Cruzeiro/MG 3x4 Atlético/MG
+24/10/2010 - 18:30 - Grêmio/RS 2x2 Internacional/RS
+
+27/10/2010 - 22:00 - Flamengo/RJ 1x1 Corinthians/SP
+28/10/2010 - 21:00 - São_Paulo/SP 2x1 Atlético/PR
+28/10/2010 - 21:00 - Fluminense/RJ 2x0 Grêmio/RS
+28/10/2010 - 21:00 - Atlético/GO 1x1 Ceará/CE
+30/10/2010 - 16:00 - Internacional/RS 1x1 Santos/SP
+30/10/2010 - 16:00 - Vitória/BA 4x2 Vasco/RJ
+30/10/2010 - 18:30 - Palmeiras/SP 3x2 Goiás/GO
+30/10/2010 - 18:30 - Grêmio_Prudente/SP 0x2 Cruzeiro/MG
+30/10/2010 - 18:30 - Atlético/MG 0x2 Botafogo/RJ
+30/10/2010 - 18:30 - Avai/SC 1x0 Guarani/SP
+
+03/11/2010 - 19:30 - Santos/SP 1x1 Vitória/BA
+03/11/2010 - 19:30 - Botafogo/RJ 3x2 Atlético/GO
+03/11/2010 - 19:30 - Guarani/SP 0x0 Atlético/MG
+03/11/2010 - 19:30 - Internacional/RS 0x0 Fluminense/RJ
+03/11/2010 - 19:30 - Goiás/GO 0x2 Grêmio/RS
+03/11/2010 - 21:50 - Corinthians/SP 4x0 Avai/SC
+03/11/2010 - 21:50 - Cruzeiro/MG 0x2 São_Paulo/SP
+03/11/2010 - 21:50 - Ceará/CE 2x2 Flamengo/RJ
+04/11/2010 - 21:00 - Vasco/RJ 2x1 Grêmio_Prudente/SP
+04/11/2010 - 21:00 - Atlético/PR 1x0 Palmeiras/SP
+
+06/11/2010 - 19:30 - Atlético/MG 2x2 Santos/SP
+06/11/2010 - 19:30 - Grêmio/RS 5x1 Ceará/CE
+06/11/2010 - 19:30 - Atlético/GO 2x2 Internacional/RS
+07/11/2010 - 17:00 - São_Paulo/SP 0x2 Corinthians/SP
+07/11/2010 - 17:00 - Grêmio_Prudente/SP 4x1 Goiás/GO
+07/11/2010 - 17:00 - Vitória/BA 0x1 Cruzeiro/MG
+07/11/2010 - 17:00 - Avai/SC 0x0 Botafogo/RJ
+07/11/2010 - 19:30 - Palmeiras/SP 1x0 Guarani/SP
+07/11/2010 - 19:30 - Flamengo/RJ 0x1 Atlético/PR
+07/11/2010 - 19:30 - Fluminense/RJ 1x0 Vasco/RJ
+
+10/11/2010 - 21:50 - Ceará/CE 2x2 Botafogo/RJ
+13/11/2010 - 19:30 - Corinthians/SP 1x0 Cruzeiro/MG
+13/11/2010 - 19:30 - Santos/SP 0x0 Grêmio/RS
+13/11/2010 - 19:30 - Atlético/MG 4x1 Flamengo/RJ
+14/11/2010 - 17:00 - Vasco/RJ 1x1 São_Paulo/SP
+14/11/2010 - 17:00 - Guarani/SP 1x1 Vitória/BA
+14/11/2010 - 17:00 - Internacional/RS 2x3 Avai/SC
+14/11/2010 - 17:00 - Atlético/GO 3x0 Palmeiras/SP
+14/11/2010 - 19:30 - Fluminense/RJ 1x1 Goiás/GO
+14/11/2010 - 19:30 - Atlético/PR 2x1 Grêmio_Prudente/SP
+
+20/11/2010 - 19:30 - Flamengo/RJ 2x1 Guarani/SP
+20/11/2010 - 19:30 - Grêmio_Prudente/SP 1x1 Ceará/CE 
+20/11/2010 - 19:30 - Grêmio/RS 3x1 Atlético/PR 
+21/11/2010 - 17:00 - São_Paulo/SP 1x4 Fluminense/RJ
+21/11/2010 - 17:00 - Palmeiras/SP 0x2 Atlético/MG
+21/11/2010 - 17:00 - Botafogo/RJ 1x2 Internacional/RS 
+21/11/2010 - 17:00 - Vitória/BA 1x1 Corinthians/SP 
+21/11/2010 - 19:30 - Cruzeiro/MG 3x1 Vasco/RJ
+21/11/2010 - 19:30 - Goiás/GO 1x4 Santos/SP
+21/11/2010 - 19:30 - Avai/SC 3x0 Atlético/GO
