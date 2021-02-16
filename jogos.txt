@@ -223,9 +223,9 @@
 12/09/2010 - 16:00 - Botafogo/RJ 2x0 São_Paulo/SP
 12/09/2010 - 16:00 - Atlético/MG 1x0 Grêmio_Prudente/SP
 12/09/2010 - 16:00 - Avai/SC 1x2 Cruzeiro/MG
-12/09/2010 - 18:30 -Guarani/SP 1x0 Atlético/PR
-12/09/2010 - 18:30 -Internacional/RS 0x0 Goiás/GO
-12/09/2010 - 18:30 -Ceará/CE 2x1 Santos/SP
+12/09/2010 - 18:30 - Guarani/SP 1x0 Atlético/PR
+12/09/2010 - 18:30 - Internacional/RS 0x0 Goiás/GO
+12/09/2010 - 18:30 - Ceará/CE 2x1 Santos/SP
 
 15/09/2010 - 19:30 - Santos/SP 4x2 Atlético/GO
 15/09/2010 - 19:30 - Cruzeiro/MG 4x2 Guarani/SP
