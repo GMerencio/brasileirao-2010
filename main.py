@@ -20,7 +20,6 @@ def carregar_dados(caminho):
             # Desconsiderar os primeiros 21 caracteres da linha, bem como
             # espaço em branco no final.
             linha = linha.rstrip()[21:]
-            print(linha)
 
             linha_split = linha.split(' ')
 
@@ -46,5 +45,14 @@ def carregar_dados(caminho):
                   reverse = True)
 
 tabela = carregar_dados('jogos.txt')
+
+COLUNAS = ['TIME', 'PONTOS', 'VITÓRIAS', 'DERROTAS', 'EMPATES', 'JOGOS',
+           'GP', 'GC', 'SG']
+formatacao = '{:<20}{:^8}{:^10}{:^11}{:^9}{:^7}{:^4}{:^4}{:^4}'
+print(formatacao.format(*COLUNAS))
+
 for time in tabela:
-    print(time.nome, time.pontos)
+    print(formatacao.format(time.nome, time.pontos, time.vitorias,
+                            time.derrotas, time.empates, time.jogos,
+                            time.gols_pro, time.gols_contra,
+                            time.saldo_gols))
